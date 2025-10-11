@@ -171,3 +171,4 @@ window.onload = () => {
   createBoard();
   createButtons();
 }
+//generar la funcionalidad del juego
